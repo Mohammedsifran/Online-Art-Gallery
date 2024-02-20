@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	
+	background-color: #AAA8A8;
+}
+
+.footer{
+	background-color:silver;
+	text-align:center;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:15px;	
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "name":"image1",
+    "image": "http://localhost/ETF%202/image1.jpg",
+    "location":"PORTRAIT OF MADAME RECAMIER"
+  },
+  {
+    "name":"image2",
+     "image": "http://localhost/ETF%202/famous-paintings-1-1.jpg",
+    "location":"LEONID AFREMOV – RAIN’S RUSTLE"
+  },
+  {
+    "name":"image3",
+     "image": "http://localhost/ETF%202/Famous-Paintings-15-1 (1).jpg",
+    "location":"PERSISTENCE OF MEMORY"
+  }
+]
+

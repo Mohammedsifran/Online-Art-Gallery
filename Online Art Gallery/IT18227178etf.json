@@ -1,0 +1,23 @@
+[
+  {
+    "name":"Afzhal",
+    "image": "C:\xampp\htdocs\ETF 2",
+    "location":"Seattle, WA"
+  },
+  {
+    "name":"Wheat Field with Cypresses",
+    "image": "https://media.licdn.com/mpr/mpr/shrink_100_100/AAEAAQAAAAAAAAIMAAAAJGExNTE4OWY4LWU4ODMtNDA2ZS1iNWI1LWNkYmIyOWMyMGQ5Zg.jpg",
+    "location":"Muscatine, IA"
+  },
+  {
+    "name":"School of Athens",
+    "image": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/2/005/0b8/118/387e091.jpg",
+    "location":"Seattle, WA"
+  },
+  {
+    "name":"Saluting the Head of the Deputy",
+    "image": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/2/000/084/26e/2d9e05b.jpg",
+    "location":"Albuquerque, NM"
+  }
+]
+
